@@ -1,2 +1,2 @@
-# recoil-controller
-반동제어기
+# 반동제어기
+- Discord: 봉순#1234
